@@ -1,0 +1,19 @@
+Durante el año 2020 y a nivel mundial se desencadenó una pandemia ocasionada por el coronavirus SARS-CoV-2, más conocida como COVID-19. 
+Esta enfermedad infecciosa se caracteriza principalmente por síntomas respiratorios que inician de forma leve, con tos y fiebra, y pueden 
+alcanzar graves complicaciones e incluso la muerte, especialmente en mayores y personas con condiciones médicas preexistentes.
+
+Colombia no estuvo excento de este acontecimiento, ya que, así como en muchos otros países, este hecho generó grandes impactos en la salud 
+pública, la economía y la sociedad en general. A lo largo de este proyecto se analizará la información que contiene la base de datos sobre 
+casos confirmados de COVID-19 en Colombia, suministrada por el Instituto Nacional de Salud  en la página https://www.datos.gov.co. 
+Cada fila representa un caso confirmado de COVID-19. Las columnas contienen información relevante sobre cada caso, como la fecha de diagnóstico, 
+la edad, el sexo, la ubicación, entre otros.
+
+Gracias a lo anterior, se podrá comprender mejor la evolución de la pandemia en Colombia, identificando áreas geográficas con alta incidencia, 
+examinar la distribución demográfica de los casos y proporcionar información útil para la prevención y toma de decisiones en salud pública.
+
+Para desarrollar los objetivos propuestos, se implementará análisis exploratorio de los datos (EDA) incluyendo visualización y análisis descriptivo 
+para resumir las principales características de los casos de COVID-19. Además, se aplicará redes neuronales con el fin de encontrar patrones que permitan 
+conocer que características aumentan la probabilidad de fallecimiento al momento de tener un caso confirmado de COVID-19 en Colombia.
+
+En conclusión, el análisis de esta base de datos permitirá obtener información valiosa sobre la situación del COVID-19 en Colombia, buscando contribuir a 
+la formulación de estrategias efectivas de prevención y control de la enfermedad.
